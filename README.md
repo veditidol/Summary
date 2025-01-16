@@ -17,7 +17,7 @@ This project uses **EasyOCR**, **spaCy**, and **Hugging Face Transformers** to e
 
 ## Setup
 
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/your-repo-name.git
